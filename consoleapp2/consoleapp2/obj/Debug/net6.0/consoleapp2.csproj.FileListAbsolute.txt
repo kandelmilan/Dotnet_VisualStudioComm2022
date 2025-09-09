@@ -1,0 +1,15 @@
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/bin/Debug/net6.0/consoleapp2
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/bin/Debug/net6.0/consoleapp2.deps.json
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/bin/Debug/net6.0/consoleapp2.runtimeconfig.json
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/bin/Debug/net6.0/consoleapp2.dll
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/bin/Debug/net6.0/consoleapp2.pdb
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.csproj.AssemblyReference.cache
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.AssemblyInfoInputs.cache
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.AssemblyInfo.cs
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.csproj.CoreCompileInputs.cache
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.dll
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/refint/consoleapp2.dll
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.pdb
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/consoleapp2.genruntimeconfig.cache
+/Users/kandelmilan/Projects/consoleapp2/consoleapp2/obj/Debug/net6.0/ref/consoleapp2.dll

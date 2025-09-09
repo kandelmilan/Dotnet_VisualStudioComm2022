@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{871AABA1-B66C-4D66-8426-CBD7A97CBFD2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Student PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student/Views/Student/Index.cshtml">
+    <Files>
+      <File FileName="Student/Controllers/StudentController.cs" Line="2" Column="34" />
+      <File FileName="Student/Views/Student/Index.cshtml" Line="18" Column="14" />
+      <File FileName="Student/Models/StudentInfo.cs" Line="11" Column="1" />
+      <File FileName="Student/Views/Home/Index.cshtml" Line="6" Column="6" />
+      <File FileName="Student/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Student/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Student/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Student/Views/Shared/_Layout.cshtml.css" />
+      <File FileName="Student/Program.cs" />
+      <File FileName="Student/Views/_ViewImports.cshtml" />
+      <File FileName="Student/Views/_ViewStart.cshtml" />
+      <File FileName="Student/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Student/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Student/Controllers/HomeController.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Student" expanded="True">
+            <Node name="Student">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Student" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

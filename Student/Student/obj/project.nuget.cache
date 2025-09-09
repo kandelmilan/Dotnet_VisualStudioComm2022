@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SJKMJU8nvmgFEf8xCiqxLqLlfvm55FCZCxvwuTqCwpK1vqFFj35dbOIGQpKHOBdmiIZTkKiWlBT7E1fAgtMhw==",
+  "success": true,
+  "projectFilePath": "/Users/kandelmilan/Projects/Student/Student/Student.csproj",
+  "expectedPackageFiles": [
+    "/Users/kandelmilan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kandelmilan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kandelmilan/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

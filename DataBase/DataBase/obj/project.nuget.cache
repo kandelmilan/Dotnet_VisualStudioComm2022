@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCYOutZxGMy0PRc2DnvLc2zNAR5edGJVtJ5xhdtSjMuvHVVfXeVjNXMAkouEPbJCZ1eWPRzRn6ToTz7aP6fgSA==",
+  "success": true,
+  "projectFilePath": "/Users/kandelmilan/Projects/DataBase/DataBase/DataBase.csproj",
+  "expectedPackageFiles": [
+    "/Users/kandelmilan/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.8/microsoft.entityframeworkcore.tools.9.0.8.nupkg.sha512",
+    "/Users/kandelmilan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kandelmilan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kandelmilan/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

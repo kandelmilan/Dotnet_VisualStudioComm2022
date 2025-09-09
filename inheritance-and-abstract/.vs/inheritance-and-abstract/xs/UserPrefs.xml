@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3E794BF9-1322-4F51-BC12-E92EA97667B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.inheritance-and-abstract PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="inheritance-and-abstract/Program.cs">
+    <Files>
+      <File FileName="inheritance-and-abstract/Models/Animal.cs" Line="18" Column="2" />
+      <File FileName="inheritance-and-abstract/Controllers/HomeController.cs" Line="20" Column="1" />
+      <File FileName="inheritance-and-abstract/Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="inheritance-and-abstract/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="inheritance-and-abstract" expanded="True">
+            <Node name="inheritance-and-abstract">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

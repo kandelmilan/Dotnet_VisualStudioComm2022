@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A17AF3B2-B9F5-46A6-B7B9-21CDF8B44422}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenRedirectAttack" expanded="True">
+            <Node name="OpenRedirectAttack" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OpenRedirectAttack PreferredExecutionTarget="/Applications/Firefox.app" FirstBuild="True" />
+</Properties>

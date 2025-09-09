@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/inheritance-and-abstract.props" />
+</Project>

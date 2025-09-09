@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C5C436D9-A638-4EA8-937F-4DD4C16C538A}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AspcoreMvc PreferredExecutionTarget="/Applications/Firefox.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspcoreMvc/appsettings.Development.json">
+    <Files>
+      <File FileName="AspcoreMvc/appsettings.Development.json" Line="14" Column="1" />
+      <File FileName="AspcoreMvc/Program.cs" Line="2" Column="1" />
+      <File FileName="AspcoreMvc/Models/DataDbContext.cs" Line="10" Column="1" />
+      <File FileName="AspcoreMvc/Models/person.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspcoreMvc" expanded="True">
+            <Node name="AspcoreMvc" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
